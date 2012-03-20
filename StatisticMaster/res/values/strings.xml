@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, StatisticMasterActivity!</string>
+    <string name="app_name">StatisticMaster</string>
+	<string name="paid_calls_m_cn">本月拨打付费电话数目：</string>
+    <string name="call_length_m_cn">本月电话总时长：</string>
+    <string name="paid_length_m_cn">本月付费电话时长：</string>
+    <string name="call_dial_m_cn">本月拨出电话数目：</string>
+    <string name="call_recei_m_cn">本月来电数目：</string>
+    <string name="call_longest_m_cn">本月最长电话时长：</string>
+    <string name="call_fee_m_cn">本月电话费用：</string>
+    <string name="call_miss_m_cn">未接来电数目：</string>
+    <string name="free_left_m_cn">剩余免费电话额度：</string>
+    <string name="call_avg_m_cn">本月平均电话时长：</string>
+    <string name="most_called_m_cn">与您联系最多的人：</string>
+    <string name="days_left_m_cn">预计剩余使用天数：</string>
+    
+   	<string name="paid_calls_cn">拨打付费电话总数：</string>
+    <string name="call_length_cn">拨打电话总时长：</string>
+    <string name="paid_length_cn">付费电话总时长：</string>
+    <string name="call_dial_cn">拨出电话总数：</string>
+    <string name="call_recei_cn">来电总数：</string>
+    <string name="call_longest_cn">最长电话时长：</string>
+    <string name="call_miss_cn">未接来电总数：</string>
+    <string name="call_avg_week_cn">周均电话数目：</string>
+    <string name="call_avg_length_cn">平均电话时长：</string>
+    <string name="most_called_cn">与您联系最多的人：</string>
+    <string name="call_avg_month_cn">月平均拨打电话：</string>
+    <string name="paid_calls_y">总共付费电话数目：</string>
+    
+    <string name="credits_achieved">您已获得的成就点数：</string>
+    <string name="score_achieved">您手机上的数据评分为：</string>
+    <string name="unit_score">分</string>
+    <string name="no_activity">暂无事件</string>
+    <string name="main_functions">功能表</string>
+    <string name="main_recent_activities">近期活动</string>
+    <string name="call_title">通话统计</string>
+    <string name="msg_title">短信统计 </string>
+    <string name="month">本月</string>
+    <string name="all">全部</string>
+    <string name="credits">查看成就</string>
+    <string name="sdcard">SD卡统计</string>
+    <string name="clear_frag">碎片整理</string>
+    <string name="rescore">重新评分</string>
+    <string name="scanning_sd">正在扫描SD卡</string>
+    <string name="start_scan">开始扫描</string>
+    <string name="rescan">重新扫描</string>
+    <string name="unit_kb">KB</string>
+    <string name="unit_mb">MB</string>
+    <string name="unit_gb">GB</string>
+    <string name="total_space">总容量：</string>
+    <string name="free_space">可用空间：</string>
+    <string name="file_num">SD卡中的文件数目为：</string>
+    <string name="classed_stats">分类文件数目统计</string>
+    <string name="document">文档</string>
+    <string name="video">视频</string>
+    <string name="e_book">电子书</string>
+    <string name="audio">音频</string>
+    <string name="pictrue">图片</string>
+    <string name="other">其他</string>
+    <string name="complete">完成</string>
+    <string name="auto_clear">一键整理</string>
+    <string name="manual_clear">手动整理</string>
+    <string name="auto_clear_hint">请选择一键整理或手动整理，一键整理将使用您的相关配置整理您的SD卡</string>
+    <string name="auto_clear_error">您尚未配置一键碎片清理，是否转到配置页面进行配置？</string>
+    <string name="battery_status">电池状态</string>
+    
+    <!--                    电池部分                                                                     -->
+    <string name="AC_CHARGING">正在使用电源充电</string>
+    <string name="USB_CHARGING">正在使用USB充电</string>
+    <string name="SAVE_BUTTON">一键省电</string>
+    
+    <string name="OK">确定</string>
+    <string name="CANCEL">取消</string>
+</resources>
